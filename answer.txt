@@ -1,1 +1,1 @@
-extract = "I am a Biomedical science major at Marist *** am pursuing a minor in Data Science *** Analytics. " 
+"I am a Biomedical science major at Marist *** am pursuing a minor in Data Science *** Analytics. " 
